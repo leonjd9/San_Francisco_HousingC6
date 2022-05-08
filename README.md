@@ -6,7 +6,8 @@ The program imports housign data and returns interactive charts based unit squar
 pandas 
 hvplot
 pyviz hvplot geoviews
-pathlib 
+pathlib
+jupyter 
 
 #Contributors
 
